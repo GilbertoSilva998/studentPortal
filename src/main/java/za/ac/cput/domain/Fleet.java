@@ -1,5 +1,10 @@
 package za.ac.cput.domain;
 
+/*
+ *@author: Philani shange 222790210
+ * date: 23 March 2024
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
